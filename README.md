@@ -26,7 +26,9 @@ expense_tracker
 
 ## Visual Diagram
 
-
+<tr>
+  <img src = "lib/visual diag.png" height = 200 width = 500 >
+</tr>
 
 ## Setup
 
