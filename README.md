@@ -5,7 +5,7 @@ I've created a Expense Tracker App using Flutter and Dart
 Which uses ISAR Database to store data locally and also shows monthly expense summery in Bar Graph.
 
 ## Project Structure
-
+```
 expense_tracker
 ├── lib
 │   ├── bar_graph
@@ -16,13 +16,14 @@ expense_tracker
 │   ├── db
 │   │   └── expense_db.dart
 │   ├── helper
-│   │   └── helper_functions.dart // various helper fun such as format double amount into the rupeees and more
+│   │   └── helper_functions.dart
 │   ├── models
 │   │   ├── expense.dart
 │   │   └── expense.g.dart
 │   ├── pages
 │   │   ├── home_page.dart
 │   │   └── main.dart
+```
 
 ## Visual Diagram
 
