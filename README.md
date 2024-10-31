@@ -1,4 +1,4 @@
-
+ 
 # Expense Tracker APP using Flutter
 
 I've created a Expense Tracker App using Flutter and Dart
@@ -27,7 +27,7 @@ expense_tracker
 ## Visual Diagram
 
 <tr>
-  <img src = "lib/visual diag.png" height = 200 width = 500 >
+  <img src = "lib/visual diag.png" height = 1234 width = 1754 >
 </tr>
 
 ## Setup
