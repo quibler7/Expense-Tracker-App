@@ -1,0 +1,95 @@
+{
+  "workbench.colorTheme": "August - Kanagawa (Darker)",
+  "workbench.iconTheme": "theme",
+  "editor.fontFamily": "Space Mono",
+  "scm.inputFontFamily": "Space Mono",
+  "terminal.integrated.fontFamily": "monospace",
+  "chat.editor.fontFamily": "Space Mono",
+  "debug.console.fontFamily": "Space Mono",
+  "editor.codeLensFontFamily": "Space Mono",
+  "notebook.output.fontFamily": "Space Mono",
+  "markdown.preview.fontFamily": "Space Mono",
+  "editor.inlayHints.fontFamily": "Space Mono",
+  "editor.fontSize": 15,
+  "terminal.integrated.fontSize": 15,
+  "editor.minimap.enabled": true,
+  "window.commandCenter": true,
+  "editor.scrollbar.vertical": "auto",
+  "window.titleBarStyle": "custom",
+  "editor.scrollbar.horizontal": "auto",
+  "apc.font.family": "Space Mono",
+  "apc.monospace.font.family": "Space Mono",
+  "workbench.startupEditor": "none",
+  "editor.tabSize": 2,
+  "editor.linkedEditing": true,
+  "breadcrumbs.filePath": "off",
+  "files.trimTrailingWhitespace": true,
+  "[markdown]": {
+      "files.trimTrailingWhitespace": false
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "window.zoomLevel": 0.75,
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "dart.openDevTools": "flutter",
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "solidity.telemetry": true,
+  "editor.accessibilitySupport": "on",
+  "github.copilot.editor.enableAutoCompletions": true,
+  "dart.flutterSdkPath": "/Users/chaitanyjadhav/development/flutter",
+  "git.openRepositoryInParentFolders": "always",
+  "cody.codeActions.enabled": true,
+  "accessibility.signals.chatResponseReceived": {
+      "sound": "off"
+  },
+  "accessibility.signalOptions.volume": 0,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.stickyScroll.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.settings.applyToAllProfiles": [
+      "workbench.colorCustomizations"
+  ],
+  "tabnine.experimentalAutoImports": true,
+  "database-client.autoSync": true,
+  "workbench.activityBar.location": "bottom",
+  "workbench.colorCustomizations": {
+      "[Ayu Dark]": {
+          "editor.background": "#110f17",
+          "terminal.background": "#110f17",
+          "activityBar.background": "#110f17",
+          "statusBar.background": "#110f17",
+          "editorGroupHeader.tabsBackground": "#110f17",
+          "tab.inactiveBackground": "#110f17"
+      },
+      "terminal.background": "#00000000"
+  },
+  "editor.tokenColorCustomizations": {
+      "[Ayu Dark]": {
+          "textMateRules": [
+              {
+                  "scope": "string.quoted.single",
+                  "settings": {
+                      "foreground": "#8692fb"
+                  }
+              },
+              {
+                  "scope": "string.quoted.double",
+                  "settings": {
+                      "foreground": "#fdc35de0"
+                  }
+              }
+          ]
+      }
+  },
+  "workbench.editor.editorActionsLocation": "titleBar",
+  "glassit.alpha": 50,
+  "glassit.force_sway": true,
+  "glassit.step": 10,
+  "vscode_vibrancy.enableAutoTheme": true,
+  "workbench.statusBar.visible": false
+}
